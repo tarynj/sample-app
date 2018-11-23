@@ -1,0 +1,1 @@
+console.lot(123);
